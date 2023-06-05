@@ -1,0 +1,4 @@
+{
+  "options": ["ignore-certificate-errors", "start-maximized", "--window-size=1920,1080", "--headless"],
+  "minimizeOnStart": "false"
+}
