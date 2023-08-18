@@ -1,0 +1,22 @@
+{
+    "habilitacao":{
+        "inicial":""
+    },
+    "tipo_tema_assunto":"",
+    "acao":"",
+    "valores_sigepe":{
+        "edicao_bgp":"",
+        "tipo_assinatura":"",
+        "especie":"",
+        "tema":"",
+        "assunto":"",
+        "tipo_preenchimento":"",
+        "data_assinatura":"",
+        "data_publicacao":"",
+        "orgao":"",
+        "upag":"",
+        "uorg":"",
+        "responsavel_assinatura":"",
+        "cargo_responsavel":""
+    }
+}
