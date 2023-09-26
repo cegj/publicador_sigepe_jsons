@@ -1,5 +1,5 @@
 {
-  "version": "2",
+  "version": "1",
   "general": {
     "loadingModal": "//*[@id='j_idt154:j_idt155:ajaxStatusModal']",
     "erroInternoHeader": "//header[normalize-space()='ERRO INTERNO']",
