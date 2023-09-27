@@ -1,5 +1,5 @@
 {
   "version": "v1.2.2",
   "url": "https://github.com/cegj/publicador_sigepe/releases/download/v.1.2/publicador_sigepe_instalador-v-1-2.exe",
-  "notes": "- Adiciona instruções aos usuários na interface da aplicação;\n- Verifica existência de nova versão e informa ao usuário;\n- Realiza atualização automática de configurações da aplicação;\n- Adiciona opção de importar/exportar configurações do usuário"
+  "notes": "NOVIDADES:\n\n- Adiciona instruções aos usuários na interface da aplicação;\n- Verifica existência de nova versão e informa ao usuário;\n- Realiza atualização automática de configurações da aplicação;\n- Adiciona opção de importar/exportar configurações do usuário"
 }
