@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.2",
-  "url": "https://github.com/cegj/publicador_sigepe/releases/download/v.1.2.2/publicador_sigepe_instalador-v-1-2-2.exe",
-  "notes": "NOVIDADES:\n- Corrige bug que congela a fila de publicações em caso de erros.\n- Corrige bug que impede de verificar se o cadastro do documento foi efetuado com sucesso.\n- Verifica se data de publicação é feriado nacional e, se sim, sugere alteração para próximo dia útil"
+  "version": "v1.2.1",
+  "url": "https://github.com/cegj/publicador_sigepe/releases/download/v.1.2.1/publicador_sigepe_instalador-v-1-2-1.exe",
+  "notes": "NOVIDADES:\n- Remove compatibilidade com o Mozilla Firefox (mantém Chrome e Edge)\n- Corrige bug que congelava a fila de publicação de arquivos em caso de erros\n- Adiciona informações/ajuda ao usuário sobre os recursos diretamente na interface\n- Ajusta layout de janelas de configurações\n- Verifica se há novas versões no Publicador Sigepe ao inicializar e, se houver, dá ao usuário opção de fazer o download\n- Verifica se há novas versões das configurações da aplicação ao atualizar e, se houver, atualiza automaticamente\n- Cria função para importar e exportar configurações do usuário pela interface\n- Verifica se há conexão com a internet no início da aplicação e, se não houver, informa ao usuário e encerra a execução\n- Outros ajustes de layout e outros ajustes internos"
 }
