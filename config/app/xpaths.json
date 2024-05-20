@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "general": {
     "loadingModal":"/html/body/div[2]/div[4]/div/div[4]",
     "erroInternoHeader": "//header[normalize-space()='ERRO INTERNO']",
