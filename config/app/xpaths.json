@@ -1,7 +1,7 @@
 {
   "version": "1",
   "general": {
-    "loadingModal": "//*[@id='j_idt154:j_idt155:ajaxStatusModal']",
+    "loadingModal":"/html/body/div[2]/div[4]/div/div[4]",
     "erroInternoHeader": "//header[normalize-space()='ERRO INTERNO']",
     "erroInternoVoltarAreaDeTrabalhoLink": "//*[@id='main-content']/section/div/ul/li[2]/a",
     "erroDesconhecidoModal": "//*[@id='j_idt154:j_idt155:ajaxResponseWithErrorModal']/div[2]"
