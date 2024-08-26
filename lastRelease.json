@@ -1,5 +1,5 @@
 {
-  "version": "v1.2.2",
-  "url": "https://github.com/cegj/publicador_sigepe/releases/download/v.1.2.2/publicador_sigepe_instalador-v-1-2-2.exe",
-  "notes": "NOVIDADES:\n- Corrige bug que congela a fila de arquivos em caso de erros;\n- Corrige bug que impede de verificar se o cadastro do documento foi efetuado com sucesso;\n -Verifica se data de publicação é feriado nacional e, se sim, sugere alteração para próximo dia útil."
+  "version": "v1.2.3",
+  "url": "https://github.com/cegj/publicador_sigepe/releases/download/v.1.2.3/publicador_sigepe_instalador_v_1_2_3.exe",
+  "notes": "NOVIDADES:\n- Corrige erros relacionados a problemas de SSL/certificado de segurança no Sigepe"
 }
