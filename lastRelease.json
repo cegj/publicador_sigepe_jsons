@@ -1,5 +1,5 @@
 {
   "version": "v1.2.4",
   "url": "https://github.com/cegj/publicador_sigepe/releases/download/v.1.2.3/publicador_sigepe_instalador_v_1_2_3.exe",
-  "notes": "\n\nAtenção: uma nova instalação limpará as suas configurações. Para mantê-las, faça uma cópia em Configurações > Import.Export Config > Exportar (antes de realizar a nova instalação).\n\nNOVIDADES:\n- Corrige erros relacionados a problemas de SSL/certificado de segurança no Sigepe."
+  "notes": "Atenção: uma nova instalação limpará as suas configurações. Para mantê-las, faça uma cópia em Configurações > Import.Export Config > Exportar (antes de realizar a nova instalação).\n\nNOVIDADES:\n- Corrige erros relacionados a problemas de SSL/certificado de segurança no Sigepe."
 }
